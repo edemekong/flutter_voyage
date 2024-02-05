@@ -7,13 +7,12 @@ Let's dive into what we'll be doing in this course.
 ## Table of Content
 
 - Introduction
-- Setting up the development environment
 - Dart Basics: 
     - Expressions, variables & constants
     - Types & Operators, 
     - Control Flows
     - Functions & Classes
     - Collections
-- Creating your first Flutter app
-- Basic widgets & widget tree
+- Creating your first Flutter app: A Student app
+- Basic widgets
 - Stateless vs stateful widget

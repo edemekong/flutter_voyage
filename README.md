@@ -8,7 +8,7 @@ Let's dive into what we'll be doing in this course.
 
 - Introduction
 - Dart Basics: 
-    - Expressions, variables & constants
+    - Expressions & variables
     - Types & Operators, 
     - Control Flows
     - Functions & Classes
